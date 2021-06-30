@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OdeToFood.Data.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,6 +9,13 @@ namespace OdeToFood.Web.Controllers
 {
     public class HomeController : Controller
     {
+        IRestaurantData db;
+
+        public HomeController()
+        {
+            db = new InMemoryRestaurantData();
+        }
+
         public ActionResult Index()
         {
             return View();
