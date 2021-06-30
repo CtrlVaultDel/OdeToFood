@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace OdeToFood.Data.Models
-{
+{ 
     public enum CuisineType
     {
         None,

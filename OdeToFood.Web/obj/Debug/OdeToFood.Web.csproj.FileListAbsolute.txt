@@ -72,8 +72,10 @@ C:\Users\Nedas\workspace\projects\OdeToFood\OdeToFood.Web\bin\System.Web.WebPage
 C:\Users\Nedas\workspace\projects\OdeToFood\OdeToFood.Web\bin\Newtonsoft.Json.xml
 C:\Users\Nedas\workspace\projects\OdeToFood\OdeToFood.Web\bin\Antlr3.Runtime.pdb
 C:\Users\Nedas\workspace\projects\OdeToFood\OdeToFood.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Nedas\workspace\projects\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.csprojAssemblyReference.cache
 C:\Users\Nedas\workspace\projects\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.csproj.CoreCompileInputs.cache
 C:\Users\Nedas\workspace\projects\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.csproj.CopyComplete
 C:\Users\Nedas\workspace\projects\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.dll
 C:\Users\Nedas\workspace\projects\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.pdb
+C:\Users\Nedas\workspace\projects\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.dll
+C:\Users\Nedas\workspace\projects\OdeToFood\OdeToFood.Web\bin\OdeToFood.Data.pdb
+C:\Users\Nedas\workspace\projects\OdeToFood\OdeToFood.Web\obj\Debug\OdeToFood.Web.csproj.AssemblyReference.cache
