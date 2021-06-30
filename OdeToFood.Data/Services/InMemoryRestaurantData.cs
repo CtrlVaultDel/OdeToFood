@@ -9,7 +9,7 @@ namespace OdeToFood.Data.Services
 {
     public class InMemoryRestaurantData : IRestaurantData
     {
-        private List<Restaurant> restaurants;
+        List<Restaurant> restaurants;
 
         public InMemoryRestaurantData()
         {
