@@ -45,7 +45,11 @@ namespace OdeToFood.Web.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(Restaurant restaurant)
         {
-            db.Add(restaurant);
+            if (ModelState.IsValid)
+            {
+                db.Add(restaurant);
+                return View();
+            }
             return View();
         }
     }
